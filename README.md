@@ -13,4 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->The repository are :
+- _layouts
+   - default,html
+   - post.html
+- _posts
+-  - 2021-09-01-site-launched.md
+- about
+   - index.html
+- blog
+   - index.html 
+- css
+  - main.css
+  -.gitignore
+- README.md
+- _config.yml
+- index.html
+
+
