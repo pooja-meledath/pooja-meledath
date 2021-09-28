@@ -25,7 +25,7 @@ Here are some ideas to get you started:
    - index.html 
 - css
   - main.css
-  - .gitignore
+- .gitignore
 - README.md
 - _config.yml
 - index.html
