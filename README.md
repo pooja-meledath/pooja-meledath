@@ -29,5 +29,8 @@ Here are some ideas to get you started:
 - README.md
 - _config.yml
 - index.html
+- Images
+   - wb.jpg
+   - wbpics
 
 
