@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 - index.html
 - Images
    - wb.jpg
-   - wbpics
 
 
